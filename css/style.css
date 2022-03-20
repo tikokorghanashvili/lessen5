@@ -62,8 +62,49 @@
 	margin-left: 40px;
 	margin-top: 76px;
 }
+.image{
+	position: relative;
+}
+.dolore{
+	position: absolute;
+	top: 28px;
+	left: 40px;
+	right: 40px;
+	bottom: 306px;
+	font-size: 16px;
+	color: #FFFFFF;
+}
+.image2{
+	position: relative;
+	margin-bottom: 20px;
+}
+.morbi1{
+	position: absolute;
+	top: px;
+	left: 590px;
+	right: 15px;
+	bottom: 15px;
+	font-size: 16px;
+	color: #FFFFFF;
+}
+.image3{
+	position: relative;
+	margin-bottom: 102px;
+}
+.morbi2{
+	position: absolute;
+	font-size: 16px;
+	color: #FFFFFF;
+	top: 18px;
+	left: 40px;
+	right: 40px;
+}
+.image4{
+	margin-bottom: 102px;
+}
 .container2{
 	width: 1160px;
+	height: 1012px;
 	display: inline-block;
 	margin-left: 140px;
 	margin-right: 140px;
